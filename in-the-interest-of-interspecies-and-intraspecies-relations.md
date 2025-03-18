@@ -1,7 +1,7 @@
 ---
 title: Conclusion
 sidebar: |
-    Want to learn more about the rabbits shown in this guide? You can read biographies we’ve written for [Betsy](/betsy-vanderbun.md "Betsy Vanderbun") and [Marvin](./marvin-underfoot.md "Marvin Underfoot").
+    Want to learn more about the rabbits shown in this guide? You can read biographies we’ve written for [Betsy](/betsy-vanderbun "Betsy Vanderbun") and [Marvin](./marvin-underfoot "Marvin Underfoot").
 
     ![Betsy Vanderbun.](./images/betsy3.gif)
 
