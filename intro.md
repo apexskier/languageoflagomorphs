@@ -1,5 +1,6 @@
 ---
 title: Rabbit Body Language
+permalink: "/"
 ---
 
 # Introduction

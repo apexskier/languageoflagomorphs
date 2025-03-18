@@ -24,4 +24,4 @@ Some rabbits will lick objects around you, rather than your body or the clothes 
 
 You may wonder how you’re going to get your rabbit to obey you in anything (e.g. going back into her or his cage) if you aren’t the boss. The answer is that rabbits are perfectly capable of believing several things at once. As long as you demonstrate they’re the big boss by obeying the licking order, you get to be the little boss and be obeyed in everything else. That should give you some idea of a rabbit’s priorities. A rabbit can be completely secure in its high status and still obey your commands. It’s great that human and rabbit priorities are completely different, so that all of us can get what we want and need.
 
-[previous page](./index.md "Introduction") | [next page](./yeah-baby-i-like-it-like-that.md "Yeah Baby, I Like It Like That")
+[previous page](./indexindex.md "Introduction") | [next page](./yeah-baby-i-like-it-like-that.md "Yeah Baby, I Like It Like That")
