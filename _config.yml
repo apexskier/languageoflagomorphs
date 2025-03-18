@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 strict_front_matter: true
+kramdown:
+  auto_ids: true
