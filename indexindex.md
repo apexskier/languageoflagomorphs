@@ -1,6 +1,10 @@
 ---
 title: Index
 permalink: /index/
+sidebar: |
+  ![betsy4](/images/betsy4.gif)
+
+  ![marvin5](/images/marvin5.gif)
 ---
 
 # Index
@@ -66,8 +70,4 @@ To truly understand Rabbit properly, you’ll need to read this whole guide and 
   - [Telling you to stop or go away](./why-you-fiend.md)
 - [Tongue, licking](./prove-that-you-love-me.md)
 
-[previous page](./bibliography.md "Further Reading") | [home](./intro.md "Introduction")
-
-![betsy4](./images/betsy4.gif)
-
-![marvin5](./images/marvin5.gif)
+[previous page](./bibliography.md "Further Reading") \| [home](./intro.md "Introduction")

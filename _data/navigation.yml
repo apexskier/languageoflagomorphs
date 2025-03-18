@@ -1,37 +1,36 @@
-nav:
-  - title: Introduction
-    url: ./
-  - title: Prove That You Love Me
-    url: ./prove-that-you-love-me
-  - title: Yeah Baby, I Like It Like That
-    url: ./yeah-baby-i-like-it-like-that
-  - title: Ah, This is the Life
-    url: ./ah-this-is-the-life
-  - title: Follow My Nose
-    url: ./follow-my-nose
-  - title: R-E-S-P-E-C-T is What My Bun Demands of Me
-    url: ./r-e-s-p-e-c-t-is-what-my-bun-demands-of-me
-  - title: Gimme Some Space, Man
-    url: ./gimme-some-space-man
-  - title: Why, You Fiend!
-    url: ./why-you-fiend
-  - title: Alas, Woe is Me
-    url: ./alas-woe-is-me
-  - title: Hmm, What Do We Have Here?
-    url: ./hmm-what-do-we-have-here
-  - title: Pleeeeease Oh Please Please Please!
-    url: ./pleeeeease-oh-please-please-please
-  - title: Yippie Skippie!
-    url: ./yippie-skippie
-  - title: The Need for Speed
-    url: ./the-need-for-speed
-  - title: Shiver Me Timbers!
-    url: ./shiver-me-timbers
-  - title: Did You Say Binky?
-    url: ./did-you-say-binky
-  - title: In the Interest of Peaceful Relations
-    url: ./in-the-interest-of-peaceful-relations
-  - title: Further Reading
-    url: ./further-reading
-  - title: Index
-    url: ./index
+- title: Introduction
+  url: ./
+- title: Prove That You Love Me
+  url: ./prove-that-you-love-me
+- title: Yeah Baby, I Like It Like That
+  url: ./yeah-baby-i-like-it-like-that
+- title: Ah, This is the Life
+  url: ./ah-this-is-the-life
+- title: Follow My Nose
+  url: ./follow-my-nose
+- title: R-E-S-P-E-C-T is What My Bun Demands of Me
+  url: ./r-e-s-p-e-c-t-is-what-my-bun-demands-of-me
+- title: Gimme Some Space, Man
+  url: ./gimme-some-space-man
+- title: Why, You Fiend!
+  url: ./why-you-fiend
+- title: Alas, Woe is Me
+  url: ./alas-woe-is-me
+- title: Hmm, What Do We Have Here?
+  url: ./hmm-what-do-we-have-here
+- title: Pleeeeease Oh Please Please Please!
+  url: ./pleeeeease-oh-please-please-please
+- title: Yippie Skippie!
+  url: ./yippie-skippie
+- title: The Need for Speed
+  url: ./the-need-for-speed
+- title: Shiver Me Timbers!
+  url: ./shiver-me-timbers
+- title: Did You Say Binky?
+  url: ./did-you-say-binky
+- title: In the Interest of Peaceful Relations
+  url: ./in-the-interest-of-interspecies-and-intraspecies-relations
+- title: Further Reading
+  url: ./bibliography
+- title: Index
+  url: ./index

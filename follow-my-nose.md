@@ -1,5 +1,11 @@
 ---
 title: Rabbit Nose Wiggling
+sidebar: |
+    **How does nose wiggling relate to other signals?**
+
+    Body position is the best indicator for **relaxation**, and ear position shows **attentiveness** (among other things). Nose wiggling rate seems to say more about the personal **interest** the rabbit has in what is being observed.
+
+    These three aspects of mood are typically related, but don’t have to always move together. For instance, a relaxed but attentive rabbit doesn’t necessarily have to be particularly interested in what it’s seeing, although it may be.
 ---
 
 # Follow My Nose
@@ -16,10 +22,4 @@ You might have fun with this rabbit conversational technique, which is also a go
 
 ![nose wiggling](./images/nosewiggle.gif)
 
-[previous page](./ah-this-is-the-life.md "Ah, This is the Life") | [next page](./r-e-s-p-e-c-t-is-what-my-bun-demands-of-me.md "R-E-S-P-E-C-T is What My Bun Demands of Me")
-
-**How does nose wiggling relate to other signals?**
-
-Body position is the best indicator for **relaxation**, and ear position shows **attentiveness** (among other things). Nose wiggling rate seems to say more about the personal **interest** the rabbit has in what is being observed.
-
-These three aspects of mood are typically related, but don’t have to always move together. For instance, a relaxed but attentive rabbit doesn’t necessarily have to be particularly interested in what it’s seeing, although it may be.
+[previous page](./ah-this-is-the-life.md "Ah, This is the Life") \| [next page](./r-e-s-p-e-c-t-is-what-my-bun-demands-of-me.md "R-E-S-P-E-C-T is What My Bun Demands of Me")

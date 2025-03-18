@@ -1,5 +1,13 @@
 ---
 title: Angry Rabbits
+sidebar: |
+    **The Dangers of Poor Communication**
+
+    Diane had an interesting experience at a children’s book conference. One publisher had hung a large poster of a rabbit standing aggressively with its ears turned backward. It was clearly upset and ready to attack.
+
+    When she pointed this out to one of the staff members, she was told “Why, whatever do you mean? That’s a photo of a cute bunny, don’t you think?” Since she speaks fluent Rabbit, Diane didn’t think it was a cute bunny at all. It was more like a dangerous and scary beast!
+
+    Actually, you’ll find a lot of “cute bunny” pictures showing rabbits that are mighty annoyed. That’s not too surprising since the photographer has probably been arranging and rearranging the poor thing, not to mention shining bright lights or even popping flashbulbs at it.
 ---
 
 # Why, You Fiend!
@@ -37,12 +45,4 @@ One way to defuse an angry encounter is to start grooming yourself, wiping your 
 
 Some rabbits, generally those with a history of frightening experiences and the resulting distrust, are simply extremely aggressive. They may actually chase you around and clamp their teeth onto you without any obvious provocation. This is very different from the occasional nips of a rabbit trying to get your attention, prancing around your feet happily, or telling you to buzz off. If you’re living with such a dangerous creature, try reading some of the resources on the [Further Reading](./bibliography.md "Bibliography") page that address aggressive rabbits.
 
-[previous page](./gimme-some-space-man.md "Gimme Some Space, Man") | [next page](./alas-woe-is-me.md "Alas, Woe is Me")
-
-**The Dangers of Poor Communication**
-
-Diane had an interesting experience at a children’s book conference. One publisher had hung a large poster of a rabbit standing aggressively with its ears turned backward. It was clearly upset and ready to attack.
-
-When she pointed this out to one of the staff members, she was told “Why, whatever do you mean? That’s a photo of a cute bunny, don’t you think?” Since she speaks fluent Rabbit, Diane didn’t think it was a cute bunny at all. It was more like a dangerous and scary beast!
-
-Actually, you’ll find a lot of “cute bunny” pictures showing rabbits that are mighty annoyed. That’s not too surprising since the photographer has probably been arranging and rearranging the poor thing, not to mention shining bright lights or even popping flashbulbs at it.
+[previous page](./gimme-some-space-man.md "Gimme Some Space, Man") \| [next page](./alas-woe-is-me.md "Alas, Woe is Me")

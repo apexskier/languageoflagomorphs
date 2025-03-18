@@ -1,5 +1,14 @@
 ---
 title: Offended Rabbits
+sidebar: |
+    ![Marvin being doubtful.](./images/doubtful1.gif)
+
+    Action: Left ear nearly facing forward (see the pink inside?), with right ear facing and tilted backwards. Aggressive stance.
+    Translation: “Are you trying to annoy me? Because it’s working.”
+
+    !["Actually, yes, this is indeed my chair. Since you asked."](./images/doubtful2.jpg)
+
+    “Actually, yes, this is indeed my chair. Since you asked.”
 ---
 
 # R-E-S-P-E-C-T is What My Bun Demands of Me
@@ -63,13 +72,4 @@ Incidentally, it is considered very insulting to hop quickly by right in front o
 
 Finally, there is the all-out nuclear weapon of insults, reserved only for the most offensive, utterly unacceptable, good for nothing individuals and behavior: urine. And if you’ve ever had to clean up a pungent puddle of bunny pee, often bright yellow, orange, or even red, and more than a little odorous, then you know just how powerful this weapon really is. Note that urine used for marking territory and ownership is another story entirely. But when your rabbit pees on your pillow (yes, it happens), you have obviously qualified as the lowest of the low. If you respond in kind, then you probably deserved it.
 
-[previous page](./follow-my-nose.md "Follow My Nose") | [next page](./gimme-some-space-man.md "Gimme Some Space, Man")
-
-![Marvin being doubtful.](./images/doubtful1.gif)
-
-Action: Left ear nearly facing forward (see the pink inside?), with right ear facing and tilted backwards. Aggressive stance.
-Translation: “Are you trying to annoy me? Because it’s working.”
-
-!["Actually, yes, this is indeed my chair. Since you asked."](./images/doubtful2.jpg)
-
-“Actually, yes, this is indeed my chair. Since you asked.”
+[previous page](./follow-my-nose.md "Follow My Nose") \| [next page](./gimme-some-space-man.md "Gimme Some Space, Man")

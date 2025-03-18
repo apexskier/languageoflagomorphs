@@ -1,5 +1,9 @@
 ---
 title: Yeah Baby, I Like It Like That
+sidebar: |
+    ![Betsy grooming herself.](./images/selfgroom1.gif)
+
+    “No thanks, I’ll clean this myself.”
 ---
 
 # Yeah Baby, I Like It Like That
@@ -16,9 +20,4 @@ Remember that from the big boss’s point of view, being allowed to groom a rabb
 
 Note that some rabbits, particularly if they aren’t yet familiar with you, will charge at a hand placed before them, and maybe even bite it. Nervous or aggressive rabbits may do this a lot even after they know you. The best thing to do is just stay mellow, and try to get in a few forehead rubs anyway. Eventually the rabbit should get the picture: that a hand placed in this way is not a threat but an offer. Learning good communication can be hard and a little painful, but it’s always worthwhile.
 
-[previous page](./prove-that-you-love-me.md "Prove That You Love Me") | [next page](./ah-this-is-the-life.md "Ah, This is the Life")
-
-![Betsy grooming herself.](./selfgroom1.gif)
-
-“No thanks, I’ll clean this myself.”
-
+[previous page](./prove-that-you-love-me.md "Prove That You Love Me") \| [next page](./ah-this-is-the-life.md "Ah, This is the Life")

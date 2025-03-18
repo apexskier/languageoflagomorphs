@@ -1,5 +1,13 @@
 ---
 title: Rabbit Binkies
+sidebar: |
+    ![Yipee!](./images/runningbinky1.gif)
+
+    Yipee!
+
+    ![A head flick, or half-binky.](./images/headflick.gif)
+
+    Head Flick, or Half-Binky
 ---
 
 # Did You Say Binky?
@@ -12,12 +20,4 @@ You can do a head flick too, by quickly dropping your head sideways and then bac
 
 If you want to go for the full binky, your rabbit will understand if you jump up a little in one place while doing a head flick. I recommend you don’t try to twist your body in mid-air like a rabbit will, especially if there is any furniture around, you have a history of back problems, or are over 45 years old. Trust me on this one.
 
-[previous page](./shiver-me-timbers.md "Shiver Me Timbers!") | [next page](./in-the-interest-of-interspecies-and-intraspecies-relations.md "In the Interest of Interspecies and Intraspecies Relations")
-
-![Yipee!](./images/runningbinky1.gif)
-
-Yipee!
-
-![A head flick, or half-binky.](./images/headflick.gif)
-
-Head Flick, or Half-Binky
+[previous page](./shiver-me-timbers.md "Shiver Me Timbers!") \| [next page](./in-the-interest-of-interspecies-and-intraspecies-relations.md "In the Interest of Interspecies and Intraspecies Relations")

@@ -1,5 +1,29 @@
 ---
 title: Rabbit Sadness & Fear
+sidebar: |
+    ![Sad Marvin.](./images/sad1.gif)
+
+    “You don’t love me anymore.”
+
+    ![Betsy nervous.](./images/nervous5.gif)
+
+    “I am just not sure about you, Bub.”
+
+    ![Betsy with one ear up.](./images/oneear_ani.gif)
+
+    “I’ll lend you an ear, but two you’ll have to earn.”
+
+    ![Betsy looking unsure.](./images/nervous1.gif)
+
+    “Ulp!”
+
+    ![Betsy getting ready to leave.](./images/nervous2.gif)
+
+    “Uh, I think this is where I leave.”
+
+    ![Marvin looking very nervous.](./images/nervous3.gif)
+
+    “You’re going to stick that where?!”
 ---
 
 # Alas, Woe is Me
@@ -28,28 +52,4 @@ Finally, a rabbit in terror or in severe, acute pain may scream. I’m told it i
 
 “Must you keep flashing that thing in my eyes?” (aka “As The Ears Turn”)
 
-[previous page](/why-you-fiend.md "Why, You Fiend!") | [next page](./hmm-what-do-we-have-here.md "Hmm, What Do We Have Here?")
-
-![Sad Marvin.](./images/sad1.gif)
-
-“You don’t love me anymore.”
-
-![Betsy nervous.](./images/nervous5.gif)
-
-“I am just not sure about you, Bub.”
-
-![Betsy with one ear up.](./images/oneear_ani.gif)
-
-“I’ll lend you an ear, but two you’ll have to earn.”
-
-![Betsy looking unsure.](./images/nervous1.gif)
-
-“Ulp!”
-
-![Betsy getting ready to leave.](./images/nervous2.gif)
-
-“Uh, I think this is where I leave.”
-
-![Marvin looking very nervous.](./images/nervous3.gif)
-
-“You’re going to stick that where?!”
+[previous page](/why-you-fiend.md "Why, You Fiend!") \| [next page](./hmm-what-do-we-have-here.md "Hmm, What Do We Have Here?")

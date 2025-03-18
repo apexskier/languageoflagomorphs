@@ -1,0 +1,14 @@
+<nav class="site-navigation">
+  <ul class="nav-list">
+    {% for item in site.data.navigation %} {% assign abs_page = page.url |
+    absolute_url %} {% assign abs_item = item.url | absolute_url %} {% assign
+    active_class = "" %} {% if abs_page == abs_item %} {% assign active_class =
+    " active" %} {% endif %}
+    <li class="nav-item{{ active_class }}">
+      <a href="{{ item.url | relative_url }}" class="nav-link"
+        >{{ item.title }}</a
+      >
+    </li>
+    {% endfor %}
+  </ul>
+</nav>

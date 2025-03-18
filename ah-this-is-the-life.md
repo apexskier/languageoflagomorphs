@@ -1,5 +1,13 @@
 ---
 title: Rabbit Gazing & Staring
+sidebar: |
+    ![Betsy relaxed.](./images/meatloaf1.gif)
+
+    I'm melting!
+
+    ![Marvin relaxing.](./images/lambchop1.gif)
+
+    Lounging is my life.
 ---
 
 # Ah, This is the Life
@@ -18,12 +26,4 @@ Note: If rabbits don’t get along they may play a little game one could call �
 
 Marvin with the big setup… and… flop!
 
-[previous page](./yeah-baby-i-like-it-like-that.md "Yeah Baby, I Like It Like That") | [next page](./follow-my-nose.md "Follow My Nose")
-
-![Betsy relaxed.](./images/meatloaf1.gif)
-
-I'm melting!
-
-![Marvin relaxing.](./images/lambchop1.gif)
-
-Lounging is my life.
+[previous page](./yeah-baby-i-like-it-like-that.md "Yeah Baby, I Like It Like That") \| [next page](./follow-my-nose.md "Follow My Nose")

@@ -4,6 +4,7 @@ description: Your Guide to Rabbit Communication
 strict_front_matter: true
 kramdown:
   auto_ids: true
+permalink: /:basename
 
 defaults:
   - scope:
@@ -11,4 +12,8 @@ defaults:
     values:
       sidebar:
         nav: nav
-      layout: single
+      layout: default
+
+ignore:
+  - README.md
+  - CONTRIBUTING.md

@@ -1,5 +1,9 @@
 ---
 title: Rabbits Begging for Food
+sidebar: |
+    ![Betsy asking for treats.](./images/begging1.gif)
+
+    “Got a raisin?”
 ---
 
 # Pleeeeease Oh Please Please Please!
@@ -10,8 +14,4 @@ The most common reason rabbits beg is for edible treats. Every rabbit has its fa
 
 If you offer a rabbit a pickle, it will be insulted. Too much vinegar.
 
-[previous page](./hmm-what-do-we-have-here.md "Hmm, What Do We Have Here?") | [next page](./yippie-skippie.md "Yippie Skippie!")
-
-![Betsy asking for treats.](./images/begging1.gif)
-
-“Got a raisin?”
+[previous page](./hmm-what-do-we-have-here.md "Hmm, What Do We Have Here?") \| [next page](./yippie-skippie.md "Yippie Skippie!")

@@ -10,4 +10,4 @@ Some rabbits actually like to be chased, as they know full well that they’re m
 
 Incidentally, when a rabbit visits you and then hops off, but stops to look at you just before moving out of view, it sometimes means you’re expected to follow (not necessarily by chasing). You can also sometimes use this signal to get your rabbit to follow you.
 
-[previous page](./yippie-skippie.md "Yippie Skippie!") | [next page](./shiver-me-timbers.md "Shiver Me Timbers!")
+[previous page](./yippie-skippie.md "Yippie Skippie!") \| [next page](./shiver-me-timbers.md "Shiver Me Timbers!")

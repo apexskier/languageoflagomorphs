@@ -14,4 +14,4 @@ You may notice a rabbit brushing or rubbing its chin against things, particular 
 
 Unneutered/unspayed rabbits will also spray urine to mark territory, as well as “objects” they own (sometimes including other rabbits). All pet rabbits should be neutered or spayed, which will generally stop this behavior. Wiping an area with vinegar will help kill the urine smell and may cut down on spraying there.
 
-[previous page](./r-e-s-p-e-c-t-is-what-my-bun-demands-of-me.md "R-E-S-P-E-C-T is What My Bun Demands of Me") | [next page](./why-you-fiend.md "Why, You Fiend!")
+[previous page](./r-e-s-p-e-c-t-is-what-my-bun-demands-of-me.md "R-E-S-P-E-C-T is What My Bun Demands of Me") \| [next page](./why-you-fiend.md "Why, You Fiend!")

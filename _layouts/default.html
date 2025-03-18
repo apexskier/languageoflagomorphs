@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      {% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}
+    </title>
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="content">
+        <header>
+          <h1 class="site-title">
+            <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          </h1>
+
+          {% if site.description %}
+          <p class="site-description">{{ site.description }}</p>
+          {% endif %}
+
+          <input class="menu-toggle" type="checkbox" id="menu-toggle" />
+          <label class="menu-toggle-on" for="menu-toggle" tabindex="0">Show Navigation</label>
+          <label class="menu-toggle-off" for="menu-toggle" tabindex="0" title="Close">Hide Navigation</label>
+
+          {% include nav.html %}
+        </header>
+
+        <div>{{ content }}</div>
+
+        {% if page.sidebar %}
+        <aside class="sidebar">{{ page.sidebar | markdownify }}</aside>
+        {% endif %}
+      </div>
+
+      <footer></footer>
+    </div>
+  </body>
+</html>

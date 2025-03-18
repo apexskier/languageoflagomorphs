@@ -1,6 +1,16 @@
 ---
 title: Rabbit Body Language
 permalink: "/"
+sidebar: |
+    **Do rabbits really use “language?”**
+
+    Well, scientifically speaking, no. One of the primary characteristics of language is syntax. Syntax means that words are put together into phrases using ordering rules that affect meaning. It’s part of grammar.
+
+    The scientific term for how rabbits communicate is “signaling.” Signals don’t necessarily have to be presented in a particular order. They can change meaning under different contexts, though, and that certainly is important in rabbit communication.
+
+    Nonscientifically speaking, though, a language can be any system of signs, signals and utterances that are used to communicate. Under that definition, anyone would agree that rabbits have a very sophisticated language for a non-human species.
+
+    This Language of Lagomorphs ebook has been online helping people and bunnies understand each other since 1999 — Woo!
 ---
 
 # Introduction
@@ -40,13 +50,3 @@ Sitting.
 Standing
 
 [Next page…](./prove-that-you-love-me.md "Prove That You Love Me")
-
-**Do rabbits really use “language?”**
-
-Well, scientifically speaking, no. One of the primary characteristics of language is syntax. Syntax means that words are put together into phrases using ordering rules that affect meaning. It’s part of grammar.
-
-The scientific term for how rabbits communicate is “signaling.” Signals don’t necessarily have to be presented in a particular order. They can change meaning under different contexts, though, and that certainly is important in rabbit communication.
-
-Nonscientifically speaking, though, a language can be any system of signs, signals and utterances that are used to communicate. Under that definition, anyone would agree that rabbits have a very sophisticated language for a non-human species.
-
-This Language of Lagomorphs ebook has been online helping people and bunnies understand each other since 1999 — Woo!

@@ -14,4 +14,4 @@ Another popular form of play is with toys. Acceptable play toys come in many dif
 
 Although it’s not quite play, rabbits do rather enjoy eating their food. Some rabbits indicate happiness by grunting and snorting like a pig when they eat. That seems only right. Lots of rabbits toss around their hay while eating, probably because they’re looking for the best bits.
 
-[previous page](./pleeeeease-oh-please-please-please.md "Pleeeeease Oh Please Please Please!") | [next page](./the-need-for-speed.md "The Need for Speed")
+[previous page](./pleeeeease-oh-please-please-please.md "Pleeeeease Oh Please Please Please!") \| [next page](./the-need-for-speed.md "The Need for Speed")

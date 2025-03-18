@@ -1,5 +1,13 @@
 ---
 title: Rabbit Curiosity
+sidebar: |
+    ![Curious Marvin.](./images/curious1.gif)
+
+    “Why, Watson, I do believe we have found a clue…”
+
+    ![Betsy curious.](./images/curious2.gif)
+
+    “Verrrrry interesting.”
 ---
 
 # Hmm, What Do We Have Here?
@@ -12,12 +20,4 @@ The most polite response to a curious bunny who has come over to investigate is 
 
 Curious rabbits sometimes will rear up onto their hind limbs and stand tall to look around, which is called “periscoping.” Unfortunately, they are rather bottom-heavy creatures and have a tendency to tumble over backwards when doing so. Just try not to laugh.
 
-[previous page](./alas-woe-is-me.md "Alas, Woe is Me") | [next page](./pleeeeease-oh-please-please-please.md "Pleeeeease Oh Please Please Please!")
-
-![Curious Marvin.](./images/curious1.gif)
-
-“Why, Watson, I do believe we have found a clue…”
-
-![Betsy curious.](./images/curious2.gif)
-
-“Verrrrry interesting.”
+[previous page](./alas-woe-is-me.md "Alas, Woe is Me") \| [next page](./pleeeeease-oh-please-please-please.md "Pleeeeease Oh Please Please Please!")
