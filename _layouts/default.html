@@ -29,9 +29,9 @@
 
         <div>{{ content }}</div>
 
-        {% if page.sidebar %}
+        {% unless page.sidebar.first %}
         <aside class="sidebar">{{ page.sidebar | markdownify }}</aside>
-        {% endif %}
+        {% endunless %}
       </div>
 
       <footer></footer>
