@@ -26,11 +26,9 @@ To truly understand Rabbit properly, you’ll need to read this whole guide and 
   - [Wobbled](./r-e-s-p-e-c-t-is-what-my-bun-demands-of-me.md)
 - [Eyes, wincing](./alas-woe-is-me.md)
 - Feet
-  - [Thumping](./alas-woe-is-me.md#thump)
-  - [Front feet stuck out  
-    forward](./ah-this-is-the-life.md#relaxed)
-  - [Hind feet stuck out sideways or  
-    backwards](./ah-this-is-the-life.md#relaxed)
+  - [Thumping](./alas-woe-is-me.md)
+  - [Front feet stuck out forward](./ah-this-is-the-life.md)
+  - [Hind feet stuck out sideways or backwards](./ah-this-is-the-life.md)
 - Noses
   - [Touching](./r-e-s-p-e-c-t-is-what-my-bun-demands-of-me.md)
   - [Wiggling](./follow-my-nose.md)
@@ -41,8 +39,7 @@ To truly understand Rabbit properly, you’ll need to read this whole guide and 
     - [Away from you](./r-e-s-p-e-c-t-is-what-my-bun-demands-of-me.md)
   - Stance and other arrangement
     - [Head-down for grooming](./yeah-baby-i-like-it-like-that.md)
-    - [Front feet wide to charge in  
-      anger](./why-you-fiend.md)
+    - [Front feet wide to charge in anger](./why-you-fiend.md)
     - [Periscoping, on two feet](./hmm-what-do-we-have-here.md)
     - [Lying](./ah-this-is-the-life.md)
       - [Sphinx](./ah-this-is-the-life.md)
@@ -59,7 +56,7 @@ To truly understand Rabbit properly, you’ll need to read this whole guide and 
   - [Growl-grunt](./why-you-fiend.md)
   - [Mumbling](./yeah-baby-i-like-it-like-that.md)
   - [Muttering](./alas-woe-is-me.md)
-  - [Thumping hind feet](./alas-woe-is-me.md#thump)
+  - [Thumping hind feet](./alas-woe-is-me.md)
 - [Tail, extended when aggressive](./why-you-fiend.md)
 - Biting and nipping
   - [Happy, dancing around you](./yippie-skippie.md)
