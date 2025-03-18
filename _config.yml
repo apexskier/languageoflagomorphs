@@ -1,0 +1,14 @@
+title: The Language of Lagomorphs
+description: Your Guide to Rabbit Communication
+
+strict_front_matter: true
+kramdown:
+  auto_ids: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      sidebar:
+        nav: nav
+      layout: single
