@@ -14,6 +14,7 @@ Here's my discoveries of the history of the original site.
 - ????: Site moved to http://language.rabbitspeak.com/
 - 2022-12-22: [Last web archive capture](https://web.archive.org/web/20221222220449/http://language.rabbitspeak.com/)
 - 2023-01-22: [Forum post about the site being down](https://www.rabbitsonline.net/threads/language-of-lagomorphs-is-it-gone-forever.105436/)
+- 2025-03-18: Site revived at https://languageoflagomorphs.com/
 
 ---
 
