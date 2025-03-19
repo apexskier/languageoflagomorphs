@@ -21,8 +21,16 @@
           {% endif %}
 
           <input class="menu-toggle" type="checkbox" id="menu-toggle" />
-          <label class="menu-toggle-on" for="menu-toggle" tabindex="0">Show Navigation</label>
-          <label class="menu-toggle-off" for="menu-toggle" tabindex="0" title="Close">Hide Navigation</label>
+          <label class="menu-toggle-on" for="menu-toggle" tabindex="0"
+            >Show Navigation</label
+          >
+          <label
+            class="menu-toggle-off"
+            for="menu-toggle"
+            tabindex="0"
+            title="Close"
+            >Hide Navigation</label
+          >
 
           {% include nav.html %}
         </header>
@@ -30,12 +38,16 @@
         <div>{{ content }}</div>
 
         {% unless page.sidebar.first %}
-        <aside class="sidebar">{{ page.sidebar | markdownify }}</aside>
+        <div>
+          <aside class="sidebar">{{ page.sidebar | markdownify }}</aside>
+        </div>
         {% endunless %}
       </div>
 
       <footer>
-        <a href="https://github.com/apexskier/languageoflagomorphs/">Contribute to the site</a>
+        <a href="https://github.com/apexskier/languageoflagomorphs/"
+          >Contribute to the site</a
+        >
       </footer>
     </div>
   </body>

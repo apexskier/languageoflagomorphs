@@ -353,6 +353,10 @@ figcaption {
   border-radius: 4px;
 }
 
+.sidebar *:last-child {
+  margin-bottom: 0;
+}
+
 /* Navigation styles */
 .nav-list {
   list-style: none;
