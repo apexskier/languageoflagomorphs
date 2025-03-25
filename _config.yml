@@ -1,6 +1,10 @@
 title: The Language of Lagomorphs
 description: Your Guide to Rabbit Communication
 
+url: "https://languageoflagomorphs.com"
+plugins:
+  - jekyll-sitemap
+
 strict_front_matter: true
 kramdown:
   auto_ids: true

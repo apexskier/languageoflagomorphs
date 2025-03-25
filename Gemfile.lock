@@ -259,6 +259,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-relative-links (= 0.7)
+  jekyll-sitemap
 
 BUNDLED WITH
    1.17.2
