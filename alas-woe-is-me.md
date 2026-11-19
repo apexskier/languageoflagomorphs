@@ -44,7 +44,7 @@ A rabbit that is scared but can’t run, or one that is nervous, may chatter its
 
 Some rabbits will mutter nervously to themselves. This sound is usually a little higher pitched than the happy mumbling of a rabbit being groomed, and sounds very different from a rabbit grunting as it eats or grunt-growling at you when it’s angry. I’ve been told, though, that some rabbits just always are muttering to themselves, and in such cases doesn’t necessarily indicate nervousness, but is probably just comfortable social mumbling. In fact, female rabbits may “coo” while nursing their pups. The context of the situation should make the meaning pretty clear.
 
-When a rabbit is frustrated with being locked in its cage it may loudly toss things around or otherwise “rattle the bars.” This is meant to get your attention, of course, and typically is a request to be allowed out.
+When a rabbit is frustrated with being locked in its enclosure it may loudly toss things around or otherwise “rattle the bars.” This is meant to get your attention, of course, and typically is a request to be allowed out.
 
 Finally, a rabbit in terror or in severe, acute pain may scream. I’m told it is a terrible sound, but, fortunately, I’ve never heard this vocalization. I sincerely hope you never hear it either.
 

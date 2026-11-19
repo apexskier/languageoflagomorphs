@@ -14,7 +14,7 @@ Finally, I have no personal experience with lop-eared rabbits. Many people have 
 
 #### Jaw Trembling
 
-Our female rabbit Betsy will sometimes show a very subtle shivering of her lower jaw without making any sound (i.e. no tooth grinding). Whenever she does this she is lying apparently contentedly, with ears up and facing forward. I’ve seen her do this both in her cage and outside. I don’t know if this is actually a communication signal.
+Our female rabbit Betsy will sometimes show a very subtle shivering of her lower jaw without making any sound (i.e. no tooth grinding). Whenever she does this she is lying apparently contentedly, with ears up and facing forward. I’ve seen her do this both in her enclosure and outside. I don’t know if this is actually a communication signal.
 
 ### Things Other People Have Noticed And I’ve Seen Too
 

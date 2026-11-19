@@ -16,7 +16,7 @@ Like all mammals, rabbits are very curious by nature. As soon as they’re comfo
 
 When their curiosity is aroused, but usually before they come over to investigate personally, they’ll sometimes spread their ears out to each side like a (rabbit ears) television antenna, and turn them directly ahead, to get a wide stereo field of “view.” Sometimes rabbits use wide stereo ears when they’re nervous too, in which case they certainly won’t be stretching their necks forward, and may also turn their bodies a bit to the side in case they need to flee.
 
-The most polite response to a curious bunny who has come over to investigate is to give it a portion of whatever it is curious about. A little something to sniff, to nibble, or to toss in the air perhaps. When a rabbit comes over and signals that it’s curious, it wants to share in what you’re doing. Or sometimes, as when you’re cleaning a cage, to be sure that you’re doing everything correctly.
+The most polite response to a curious bunny who has come over to investigate is to give it a portion of whatever it is curious about. A little something to sniff, to nibble, or to toss in the air perhaps. When a rabbit comes over and signals that it’s curious, it wants to share in what you’re doing. Or sometimes, as when you’re cleaning an enclosure, to be sure that you’re doing everything correctly.
 
 Curious rabbits sometimes will rear up onto their hind limbs and stand tall to look around, which is called “periscoping.” Unfortunately, they are rather bottom-heavy creatures and have a tendency to tumble over backwards when doing so. Just try not to laugh.
 
